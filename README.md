@@ -72,4 +72,7 @@ An interactive Tableau dashboard has been created to highlight:
 
 ## 🚀 How to Use
 
-1. Clone the repo:
+### 🔁 Clone this repository
+```bash
+git clone https://github.com/anchalsingh154/Heart-disease-prediction_Capstone-Project.git
+cd Heart-disease-prediction_Capstone-Project
